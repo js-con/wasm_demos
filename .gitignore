@@ -3,3 +3,8 @@ node_modules
 dist
 dist-ssr
 *.local
+yarn-error.log
+wasm/pkg
+wasm/target
+wasm/tempCodeRunnerFile.exe
+wasm/tempCodeRunnerFile.pdb
