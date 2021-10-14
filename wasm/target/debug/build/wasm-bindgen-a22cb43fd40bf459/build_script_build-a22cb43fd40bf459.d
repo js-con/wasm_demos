@@ -1,5 +1,5 @@
-d:\Projects\wasm_demos\wasm\target\debug\build\wasm-bindgen-a22cb43fd40bf459\build_script_build-a22cb43fd40bf459.exe: C:\Users\57452\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\wasm-bindgen-0.2.78\build.rs
+d:\demo\wasm_demos\wasm-rust-md5-demo\wasm\target\debug\build\wasm-bindgen-a22cb43fd40bf459\build_script_build-a22cb43fd40bf459.exe: C:\Users\hello\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\wasm-bindgen-0.2.78\build.rs
 
-d:\Projects\wasm_demos\wasm\target\debug\build\wasm-bindgen-a22cb43fd40bf459\build_script_build-a22cb43fd40bf459.d: C:\Users\57452\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\wasm-bindgen-0.2.78\build.rs
+d:\demo\wasm_demos\wasm-rust-md5-demo\wasm\target\debug\build\wasm-bindgen-a22cb43fd40bf459\build_script_build-a22cb43fd40bf459.d: C:\Users\hello\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\wasm-bindgen-0.2.78\build.rs
 
-C:\Users\57452\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\wasm-bindgen-0.2.78\build.rs:
+C:\Users\hello\.cargo\registry\src\mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd\wasm-bindgen-0.2.78\build.rs:
