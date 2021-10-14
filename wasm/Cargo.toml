@@ -24,5 +24,6 @@ version = "0.3"
 features = [
   "HtmlCanvasElement",
   "CanvasRenderingContext2d",
-  "Window","Document"
+  "Window","Document",
+  "Element"
 ]
